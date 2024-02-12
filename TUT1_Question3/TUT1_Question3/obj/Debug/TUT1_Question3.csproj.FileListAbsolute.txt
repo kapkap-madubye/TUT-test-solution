@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.exe.config
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.exe
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.pdb
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.exe
+C:\Users\LENOVO\source\repos\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.pdb
+C:\Users\LENOVO\OneDrive\Desktop\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.exe
+C:\Users\LENOVO\OneDrive\Desktop\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.pdb
+C:\Users\LENOVO\OneDrive\Desktop\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.exe
+C:\Users\LENOVO\OneDrive\Desktop\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.pdb
